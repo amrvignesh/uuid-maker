@@ -1,0 +1,25 @@
+{
+  "name": "uuid-maker",
+  "version": "0.0.1",
+  "description": "Generate UUID",
+  "main": "uuid-maker.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amrvignesh/uuid-maker.git"
+  },
+  "keywords": [
+    "uuid",
+    "uuid generator",
+    "generate uuid",
+    "create uuid"
+  ],
+  "author": "amrvignesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amrvignesh/uuid-maker/issues"
+  },
+  "homepage": "https://github.com/amrvignesh/uuid-maker#readme"
+}
